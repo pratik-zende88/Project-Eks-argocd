@@ -31,7 +31,7 @@ spec:
 
       containers:
       - name: todo-frontend
-        image: sanketmahajan/todoapp_frontend:4.0.1
+        image: sanketmahajan/todoapp_frontend:6.0.0
         imagePullPolicy: Always
 
         ports:
